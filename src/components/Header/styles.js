@@ -3,7 +3,7 @@ import styled from 'styled-components/native';
 import logo from '../../assets/images/logo.png';
 
 export const Wrapper = styled.SafeAreaView`
-  flex: 1;
+  flex: 0;
   flex-direction: row;
 `;
 
@@ -22,7 +22,10 @@ export const Logo = styled.Image.attrs({
   height: 24px;
 `;
 
-export const CartButton = styled.TouchableOpacity``;
+export const CartButton = styled.TouchableOpacity`
+  width: 24px;
+  height: 24px;
+`;
 
 export const Itens = styled.Text`
   color: #fff;
@@ -32,7 +35,7 @@ export const Itens = styled.Text`
   text-align: center;
   align-items: center;
   top: -8px;
-  left: -8px;
+  left: 12px;
   width: 18px;
   height: 18px;
   border-radius: 9px;

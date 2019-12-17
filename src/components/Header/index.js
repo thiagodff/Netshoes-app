@@ -11,7 +11,7 @@ export default function Header({ navigation }) {
         <Logo />
         <CartButton onPress={() => navigation.navigate('Cart')}>
           <Icon name="cart-outline" size={24} color="#FFF" />
-          <Itens>0</Itens>
+          <Itens>9</Itens>
         </CartButton>
       </Container>
     </Wrapper>

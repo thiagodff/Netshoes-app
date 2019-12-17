@@ -1,15 +1,15 @@
-import React, { Component } from 'react';
+import React from 'react';
+import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 
-import { View, Text } from 'react-native';
+import { Container, CartEmpty, TextCartEmpty } from './styles';
 
-// import { Container } from './styles';
-
-export default class Cart extends Component {
-  render() {
-    return (
-      <>
-        <Text>Cart</Text>
-      </>
-    );
-  }
+export default function Cart() {
+  return (
+    <Container>
+      <CartEmpty>
+        <Icon name="cart-off" size={60} color="#eee" />
+        <TextCartEmpty>Seu carrinho está vazio.</TextCartEmpty>
+      </CartEmpty>
+    </Container>
+  );
 }
