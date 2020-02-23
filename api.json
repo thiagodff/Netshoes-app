@@ -56,81 +56,81 @@
       "pieces": [
         {
           "id": 1,
-          "title": "Tênis de Caminhada Leve Confortável",
-          "price": 179.9,
-          "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+          "title": "Tênis Nike Revolution 5 Masculino",
+          "price": 229.9,
+          "image": "https://static.netshoes.com.br/produtos/tenis-nike-revolution-5-masculino/26/HZM-1731-026/HZM-1731-026_zoom1.jpg??ims=544xhttps://static.netshoes.com.br/produtos/tenis-nike-revolution-5-masculino/26/HZM-1731-026/HZM-1731-026_zoom1.jpg??ims=1088x"
         },
         {
           "id": 2,
-          "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
-          "price": 139.9,
-          "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+          "title": "Tênis Adidas Run Falcon Masculino",
+          "price": 199.9,
+          "image": "https://static.netshoes.com.br/produtos/tenis-adidas-run-falcon-masculino/82/COL-6981-982/COL-6981-982_zoom1.jpg?ims=544x"
         },
         {
           "id": 3,
-          "title": "Tênis Adidas Duramo Lite 2.0",
-          "price": 219.9,
-          "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+          "title": "Tênis Olympikus Exact Masculino",
+          "price": 119.9,
+          "image": "https://static.netshoes.com.br/produtos/tenis-olympikus-exact-masculino/06/D22-2020-006/D22-2020-006_zoom1.jpg?ims=544x"
         },
         {
           "id": 4,
-          "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
+          "title": "Tênis Mizuno Jet 3 N Feminino",
           "price": 139.9,
-          "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+          "image": "https://static.netshoes.com.br/produtos/tenis-mizuno-jet-3-n-feminino/34/D16-2249-234/D16-2249-234_zoom1.jpg?ims=544x"
         },
         {
           "id": 5,
-          "title": "Tênis Adidas Duramo Lite 2.0",
-          "price": 219.9,
-          "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+          "title": "Tênis Kappa Impact Feminino",
+          "price": 59.9,
+          "image": "https://static.netshoes.com.br/produtos/tenis-kappa-impact-feminino/27/D24-1739-827/D24-1739-827_zoom1.jpg?ims=544x"
         },
         {
           "id": 6,
-          "title": "Tênis de Caminhada Leve Confortável",
-          "price": 179.9,
-          "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+          "title": "Tênis Nike Runallday 2 Feminino",
+          "price": 299.9,
+          "image": "https://static.netshoes.com.br/produtos/tenis-nike-runallday-2-feminino/27/HZM-3096-927/HZM-3096-927_zoom1.jpg?ims=544x"
         }
       ]
     },
     {
       "id": 2,
-      "type": "Tracking",
+      "type": "Aventura",
       "pieces": [
         {
           "id": 7,
-          "title": "2Tênis de Caminhada Leve Confortável",
-          "price": 179.9,
-          "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+          "title": "Bota Bull Terrier Bruce Masculina",
+          "price": 174.9,
+          "image": "https://static.netshoes.com.br/produtos/bota-bull-terrier-bruce-masculina/00/A52-0326-000/A52-0326-000_zoom1.jpg?ims=544x"
         },
         {
           "id": 8,
-          "title": "2Tênis VR Caminhada Confortável Detalhes Couro Masculino",
+          "title": "Bota Adventure SW Shoes Feminino",
           "price": 139.9,
-          "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+          "image": "https://static.netshoes.com.br/produtos/bota-adventure-sw-shoes-feminino/54/MKG-0006-254/MKG-0006-254_zoom1.jpg?ims=544x"
         },
         {
           "id": 9,
-          "title": "2Tênis Adidas Duramo Lite 2.0",
-          "price": 219.9,
-          "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+          "title": "Bota Bull Terrier Patagônia Masculina",
+          "price": 174.9,
+          "image": "https://static.netshoes.com.br/produtos/bota-bull-terrier-patagonia/06/A52-0317-006/A52-0317-006_zoom1.jpg?ims=544x"
         },
         {
           "id": 10,
-          "title": "2Tênis VR Caminhada Confortável Detalhes Couro Masculino",
-          "price": 139.9,
-          "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+          "title": "Bota Adventure Accona em Couro Legítimo Nobuck 6000",
+          "price": 119.9,
+          "image": "https://static.netshoes.com.br/produtos/bota-adventure-accona-em-couro-legitimo-nobuck-6000/38/FAS-0034-138/FAS-0034-138_zoom1.jpg?ims=544x"
         },
         {
           "id": 11,
-          "title": "2Tênis Adidas Duramo Lite 2.0",
-          "price": 219.9,
-          "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+          "title": "Bota Couro Adventure Acero Advanced Masculino",
+          "price": 239.9,
+          "image": "https://static.netshoes.com.br/produtos/bota-couro-adventure-acero-advanced-masculino/04/L27-0160-004/L27-0160-004_zoom1.jpg?ims=544x"
         },
         {
           "id": 12,
-          "title": "2Tênis de Caminhada Leve Confortável",
-          "price": 179.9,
-          "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+          "title": "Bota Adventure Couro Cano Curto Macio Conforto Masculina",
+          "price": 122.9,
+          "image": "https://static.netshoes.com.br/produtos/bota-adventure-couro-cano-curto-macio-conforto-masculina/64/NCJ-0066-264/NCJ-0066-264_zoom1.jpg?ims=544x"
         }
       ]
     }
