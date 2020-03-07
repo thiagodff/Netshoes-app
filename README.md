@@ -34,8 +34,9 @@ This app features all the latest tools and practices in mobile development!
 1. Clone this repo using `git clone https://github.com/thiagodff/Netshoes-app`
 2. Move yourself to the appropriate directory: `cd Netshoes-app`<br />
 3. Run `yarn` to install dependencies<br />
-4. Run `react-native run-android` (or `run-ios`) to start the mobile app<br />
-5. Run `json-server -p 3333 api.json` (add flag `-H YOUR_IP` to run on physical device on the same network) to run fake REST API
+4. Run `react-native run-android` (or `run-ios`) to install the mobile app<br />
+5. Run `json-server -p 3333 api.json` (add flag `-H YOUR_IP` to run on physical device on the same network) to run fake REST API<br />
+6. Run `yarn start` to run the application
 
 ## Inspiration
 
